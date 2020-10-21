@@ -1,0 +1,7 @@
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodRelaxation\bin\Debug\MethodRelaxation.exe.config
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodRelaxation\bin\Debug\MethodRelaxation.exe
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodRelaxation\bin\Debug\MethodRelaxation.pdb
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodRelaxation\obj\Debug\MethodRelaxation.csprojAssemblyReference.cache
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodRelaxation\obj\Debug\MethodRelaxation.csproj.CoreCompileInputs.cache
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodRelaxation\obj\Debug\MethodRelaxation.exe
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodRelaxation\obj\Debug\MethodRelaxation.pdb
