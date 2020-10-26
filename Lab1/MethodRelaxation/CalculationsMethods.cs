@@ -135,7 +135,7 @@ namespace MethodRelaxation
                 decisionVector[0, i] = 0;
             }
 
-            for (int i = 1; i < 14; i++)
+            for (int i = 1; i < 300; i++)
             {
 
                 NewIterNevyazki(nevyazki, decisionVector, iterationNevyzki, accuracy);

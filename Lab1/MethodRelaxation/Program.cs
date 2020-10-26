@@ -14,8 +14,8 @@ namespace MethodRelaxation
                                     { 0.4380m, 0.3260m, 0.4830m, 4.2290m, 0.8220m}};
 
         public static decimal[,] nevyzki = new decimal [4,4];
-        public static decimal[,] decisionVector = new decimal[15,4];
-        public static decimal[,] iterationNevyzki = new decimal[15, 4];
+        public static decimal[,] decisionVector = new decimal[300,4];
+        public static decimal[,] iterationNevyzki = new decimal[300, 4];
         public static decimal epsilon; 
         public static double accuracy;
         static void Main(string[] args)
