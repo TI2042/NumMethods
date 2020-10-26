@@ -1,0 +1,7 @@
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodLotsmana\bin\Debug\MethodLotsmana.exe.config
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodLotsmana\bin\Debug\MethodLotsmana.exe
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodLotsmana\bin\Debug\MethodLotsmana.pdb
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodLotsmana\obj\Debug\MethodLotsmana.csprojAssemblyReference.cache
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodLotsmana\obj\Debug\MethodLotsmana.csproj.CoreCompileInputs.cache
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodLotsmana\obj\Debug\MethodLotsmana.exe
+C:\Users\mafio\source\repos\NumMethods\Lab1\MethodLotsmana\obj\Debug\MethodLotsmana.pdb
