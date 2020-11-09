@@ -1,0 +1,7 @@
+C:\Users\mafio\Desktop\NumMethods\Lab1\RapidDescentMethod\bin\Debug\RapidDescentMethod.exe.config
+C:\Users\mafio\Desktop\NumMethods\Lab1\RapidDescentMethod\bin\Debug\RapidDescentMethod.exe
+C:\Users\mafio\Desktop\NumMethods\Lab1\RapidDescentMethod\bin\Debug\RapidDescentMethod.pdb
+C:\Users\mafio\Desktop\NumMethods\Lab1\RapidDescentMethod\obj\Debug\RapidDescentMethod.csprojAssemblyReference.cache
+C:\Users\mafio\Desktop\NumMethods\Lab1\RapidDescentMethod\obj\Debug\RapidDescentMethod.csproj.CoreCompileInputs.cache
+C:\Users\mafio\Desktop\NumMethods\Lab1\RapidDescentMethod\obj\Debug\RapidDescentMethod.exe
+C:\Users\mafio\Desktop\NumMethods\Lab1\RapidDescentMethod\obj\Debug\RapidDescentMethod.pdb

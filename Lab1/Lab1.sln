@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodRelaxation", "MethodR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodLotsmana", "MethodLotsmana\MethodLotsmana.csproj", "{99786224-7509-49F8-A0F1-AE26E399A543}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapidDescentMethod", "RapidDescentMethod\RapidDescentMethod.csproj", "{12B1A359-EB43-4933-BB01-CD3721AA349E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{99786224-7509-49F8-A0F1-AE26E399A543}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99786224-7509-49F8-A0F1-AE26E399A543}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99786224-7509-49F8-A0F1-AE26E399A543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B1A359-EB43-4933-BB01-CD3721AA349E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B1A359-EB43-4933-BB01-CD3721AA349E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B1A359-EB43-4933-BB01-CD3721AA349E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B1A359-EB43-4933-BB01-CD3721AA349E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
